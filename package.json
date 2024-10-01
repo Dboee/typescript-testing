@@ -1,0 +1,11 @@
+{
+  "name": "typescript-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "index": "npx esrun index.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
